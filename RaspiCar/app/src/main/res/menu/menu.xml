@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/id_cfg_item" android:title="@string/configure_ip"/>
+    <item android:id="@+id/id_port_item" android:title="@string/configure_port"/>
+
+</menu>

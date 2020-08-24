@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PiCar</string>
+    <string name="start_btn">START</string>
+    <string name="left_btn">LEFT</string>
+    <string name="back_btn">BACK</string>
+    <string name="right_btn">RIGHT</string>
+    <string name="stop">STOP</string>
+    <string name="distance">Distance</string>
+    <string name="camera_image">图像传输预留</string>
+    <string name="fmt_distance">障碍物距离：%d cm</string>
+    <string name="high_speed">High Speed</string>
+    <string name="mid_speed">Mid Speed</string>
+    <string name="low_speed">Low Speed</string>
+    <string name="configure_ip">Configure IP</string>
+    <string name="configure_port">Configure Port</string>
+    <string name="stop_btn">STOP</string>
+    <string name="left">L</string>
+    <string name="right">R</string>
+</resources>
